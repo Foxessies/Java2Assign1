@@ -531,11 +531,6 @@ public class MovieAnalyzer {
        MovieAnalyzer M=new MovieAnalyzer("C:/Users/Evan玖/Desktop/java/A1_Sample/src/imdb_top_500 - 2.csv");
  //       MovieAnalyzer M=new MovieAnalyzer("C:/Users/Evan玖/Desktop/java/A1_Sample/src/imdb_top_500.csv");
        M.getCoStarCount();
- //       System.out.println(M.getMovieCountByYear());
- //       System.out.println(M.getMovieCountByGenre());
- //      M.getTopMovies(20,"overview");
-//       M.getTopStars(15,"gross");
-//        M.searchMovies("Sci-Fi", 8.2f, 200);
 
 
     }
